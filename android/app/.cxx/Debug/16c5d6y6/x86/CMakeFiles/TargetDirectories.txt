@@ -1,0 +1,2 @@
+/Users/muzammilsumra/Documents/TicTacToe/android/app/.cxx/Debug/16c5d6y6/x86/CMakeFiles/edit_cache.dir
+/Users/muzammilsumra/Documents/TicTacToe/android/app/.cxx/Debug/16c5d6y6/x86/CMakeFiles/rebuild_cache.dir
